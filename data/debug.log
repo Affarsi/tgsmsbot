@@ -1,0 +1,345 @@
+19-Sep-2024 21:16:33.036 | ERROR | __main__:run_pyrogram_and_apscheduler:147 - [79950203845_Otaku_0bsessed] при запуске вызвал ошибку: (NameError("name 'gift_code_handler' is not defined"), <class 'NameError'>)
+19-Sep-2024 21:16:33.427 | INFO | __main__:run_pyrogram_and_apscheduler:161 - Started "Giveaway Manager"
+19-Sep-2024 21:16:33.428 | INFO | __main__:run_pyrogram_and_apscheduler:163 - Started "Userbot Service"
+19-Sep-2024 21:16:38.656 | INFO | bot.handlers.giveaway_manager:run_apscheduler:63 - apscheduler запущен
+19-Sep-2024 21:40:37.833 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:40:37.838 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:40:37.852 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:40:43.243 | INFO | bot.handlers.giveaway_manager:run_apscheduler:63 - apscheduler запущен
+19-Sep-2024 21:40:49.774 | INFO | bot.handlers.giveaway_manager:register_giveaway:134 - Розыгрыш 5x6 добавлен в БД!
+19-Sep-2024 21:40:49.775 | INFO | bot.handlers.giveaway_manager:register_giveaway:137 - В apscheduler добавлена задача с розыгрышем 1 id - на 2024-09-20 19:00:44
+19-Sep-2024 21:45:09.930 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:45:09.935 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:45:09.938 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:45:15.485 | INFO | bot.handlers.giveaway_manager:run_apscheduler:49 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:45:15.486 | INFO | bot.handlers.giveaway_manager:run_apscheduler:63 - apscheduler запущен
+19-Sep-2024 21:47:03.216 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:47:03.223 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:47:03.227 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:47:08.812 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:47:08.813 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 21:49:28.785 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:49:28.790 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:49:28.792 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:49:34.249 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:49:34.250 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 21:50:23.915 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:50:23.921 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:50:23.922 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:50:29.365 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:50:29.367 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 21:51:03.395 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:51:03.402 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:51:03.405 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:51:09.136 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:51:09.137 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 21:53:35.623 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:53:35.627 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:53:35.629 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:53:41.128 | INFO | bot.handlers.giveaway_manager:run_apscheduler:54 - В apscheduler добавлена задача с розыгрышем 1 на 2024-09-20 19:00:44
+19-Sep-2024 21:53:41.128 | INFO | bot.handlers.giveaway_manager:run_apscheduler:68 - apscheduler запущен
+19-Sep-2024 21:55:01.382 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:55:01.388 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:55:01.390 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:55:06.849 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 21:55:06.849 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 21:56:08.826 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 21:56:08.831 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 21:56:08.833 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 21:56:14.419 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 21:56:14.419 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:02:29.574 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:02:29.580 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:02:29.583 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:02:35.062 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:02:35.063 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+19-Sep-2024 22:05:19.157 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:05:19.160 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:05:19.164 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:05:24.741 | INFO | bot.handlers.giveaway_manager:run_apscheduler:50 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:05:24.742 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+19-Sep-2024 22:09:10.343 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:09:10.346 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:09:10.348 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:09:15.980 | INFO | bot.handlers.giveaway_manager:run_apscheduler:49 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:09:15.982 | INFO | bot.handlers.giveaway_manager:run_apscheduler:63 - apscheduler запущен
+19-Sep-2024 22:13:06.702 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:13:06.710 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:13:06.714 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:13:12.402 | INFO | bot.handlers.giveaway_manager:run_apscheduler:49 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:13:12.404 | INFO | bot.handlers.giveaway_manager:run_apscheduler:63 - apscheduler запущен
+19-Sep-2024 22:13:14.846 | INFO | bot.handlers.giveaway_manager:userbot_group_join:79 - Giveaway manager отправил команду /join в чат
+19-Sep-2024 22:15:04.519 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:15:04.520 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:15:04.521 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:15:09.998 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:15:09.999 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:15:23.728 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:15:23.733 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:15:23.735 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:15:29.281 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:15:29.282 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:16:14.635 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:16:40.841 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:17:55.949 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:17:55.953 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:17:55.956 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:18:01.413 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:18:01.416 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:21:14.296 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:21:14.301 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:21:14.302 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:21:19.771 | INFO | bot.handlers.giveaway_manager:run_apscheduler:53 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:21:19.772 | INFO | bot.handlers.giveaway_manager:run_apscheduler:67 - apscheduler запущен
+19-Sep-2024 22:22:05.571 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:22:05.574 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:22:05.575 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:22:11.166 | INFO | bot.handlers.giveaway_manager:run_apscheduler:53 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:22:11.166 | INFO | bot.handlers.giveaway_manager:run_apscheduler:67 - apscheduler запущен
+19-Sep-2024 22:23:15.753 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:23:15.758 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:23:15.761 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:23:21.170 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:23:21.171 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:23:47.306 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:23:47.309 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:23:47.310 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:23:52.763 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:23:52.764 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:23:59.938 | INFO | bot.handlers.giveaway_manager:userbot_group_join:89 - Giveaway manager отправил команду /join в чат
+19-Sep-2024 22:23:59.939 | INFO | bot.handlers.giveaway_manager:register_giveaway:115 - Giveaway manager отправил команду /join в чат
+19-Sep-2024 22:24:24.435 | INFO | bot.handlers.userbot_handlers:joining_the_chat:45 - [79950203845_Otaku_0bsessed] подписался на @Skidochnitca
+19-Sep-2024 22:25:42.402 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+19-Sep-2024 22:25:42.409 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+19-Sep-2024 22:25:42.414 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+19-Sep-2024 22:25:48.052 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+19-Sep-2024 22:25:48.053 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+19-Sep-2024 22:25:56.986 | INFO | bot.handlers.giveaway_manager:register_giveaway:113 - Giveaway manager отправил команду /join в чат
+19-Sep-2024 22:26:15.737 | INFO | bot.handlers.giveaway_manager:register_giveaway:113 - Giveaway manager отправил команду /join в чат
+19-Sep-2024 22:26:43.866 | INFO | bot.handlers.userbot_handlers:joining_the_chat:45 - [79950203845_Otaku_0bsessed] подписался на @Skidochnitca
+20-Sep-2024 00:14:18.399 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:14:18.410 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:14:18.410 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:14:23.836 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 19:00:44
+20-Sep-2024 00:14:23.837 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+20-Sep-2024 00:15:45.538 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:15:45.542 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:15:45.545 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:15:50.953 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+20-Sep-2024 00:15:58.935 | INFO | bot.handlers.giveaway_manager:register_giveaway:139 - Розыгрыш 100x3 добавлен в планировщик и БД!
+20-Sep-2024 00:16:21.189 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:16:21.198 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:16:21.203 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:16:26.713 | INFO | bot.handlers.giveaway_manager:run_apscheduler:52 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 11:00:06
+20-Sep-2024 00:16:26.716 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+20-Sep-2024 00:16:29.984 | INFO | bot.handlers.giveaway_manager:register_giveaway:139 - Розыгрыш 15000x12 добавлен в планировщик и БД!
+20-Sep-2024 00:23:20.422 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:23:20.423 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:23:20.424 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:23:25.832 | INFO | bot.handlers.giveaway_manager:run_apscheduler:66 - apscheduler запущен
+20-Sep-2024 00:25:08.581 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:25:08.590 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:25:08.594 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:25:14.043 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:25:19.675 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД!
+20-Sep-2024 00:25:19.721 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 100x3 добавлен в планировщик и БД!
+20-Sep-2024 00:26:13.626 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:26:13.629 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:26:13.631 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:26:19.022 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:27:01.330 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:27:01.334 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:27:01.337 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:27:06.757 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:27:36.779 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:27:36.784 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:27:36.785 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:27:42.208 | INFO | bot.handlers.giveaway_manager:run_apscheduler:50 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 11:00:00
+20-Sep-2024 00:27:42.212 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:27:58.422 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:27:58.424 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:27:58.425 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:28:03.864 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:28:10.100 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД!
+20-Sep-2024 00:29:53.171 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:29:53.172 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:29:53.173 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:29:58.528 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:30:13.093 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД! [2024-09-20 11:00:00]
+20-Sep-2024 00:31:50.122 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:31:50.126 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:31:50.127 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:31:55.516 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:32:01.169 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД! [2024-09-20 11:00:00]
+20-Sep-2024 00:34:50.674 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:34:50.676 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:34:50.677 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:34:56.210 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:35:02.948 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД! [2024-09-20 10:00:00]
+20-Sep-2024 00:35:15.620 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 100x3 добавлен в планировщик и БД! [2024-09-20 10:00:06]
+20-Sep-2024 00:35:40.905 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:35:40.907 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:35:40.907 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:35:46.342 | INFO | bot.handlers.giveaway_manager:run_apscheduler:50 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 10:00:00
+20-Sep-2024 00:35:46.343 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:37:02.076 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:37:02.079 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:37:02.081 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:37:07.511 | INFO | bot.handlers.giveaway_manager:run_apscheduler:50 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 10:00:00
+20-Sep-2024 00:37:07.512 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:37:14.658 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 100x3 добавлен в планировщик и БД! [2024-09-20 10:00:06]
+20-Sep-2024 00:39:15.057 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД! [2024-09-20 10:00:00]
+20-Sep-2024 00:40:50.046 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:40:50.052 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:40:50.055 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:40:55.504 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:41:33.429 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 15000x12 добавлен в планировщик и БД! [2024-09-20 10:26:00]
+20-Sep-2024 00:49:29.268 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 00:49:29.268 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 00:49:29.269 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 00:49:35.026 | INFO | bot.handlers.giveaway_manager:run_apscheduler:50 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 10:26:00
+20-Sep-2024 00:49:35.029 | INFO | bot.handlers.giveaway_manager:run_apscheduler:64 - apscheduler запущен
+20-Sep-2024 00:49:37.944 | INFO | bot.handlers.giveaway_manager:register_giveaway:138 - Розыгрыш 50x3 добавлен в планировщик и БД! [2024-09-20 14:23:57]
+20-Sep-2024 19:32:04.227 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:32:04.235 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:32:04.238 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:32:09.755 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:32:25.842 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:32:25.843 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:32:25.843 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:32:31.346 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:32:49.662 | INFO | bot.handlers.userbot_handlers:simulate_user_activity:82 - [79950203845_Otaku_0bsessed] начал прогрев
+20-Sep-2024 19:33:55.949 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:33:55.958 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:33:55.962 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:34:01.425 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:35:56.319 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:35:56.324 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:35:56.326 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:36:01.974 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:01.976 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:36:26.759 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:36:26.779 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:36:26.779 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:36:32.364 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:32.365 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 2 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:32.366 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 3 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:32.367 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 4 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:32.368 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 5 id на 2024-09-20 22:22:22
+20-Sep-2024 19:36:32.369 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:37:34.026 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [79950203845_Otaku_0bsessed] запущен
+20-Sep-2024 19:37:34.029 | INFO | __main__:run_pyrogram_and_apscheduler:164 - Started "Giveaway Manager"
+20-Sep-2024 19:37:34.030 | INFO | __main__:run_pyrogram_and_apscheduler:166 - Started "Userbot Service"
+20-Sep-2024 19:37:39.522 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 1 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.524 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 2 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.526 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 3 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.527 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 4 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.528 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 5 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.529 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 6 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.530 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 7 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.532 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 8 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.534 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 9 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.535 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 10 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.537 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 11 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.538 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 12 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.540 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 13 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.541 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 14 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.542 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 15 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.544 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 16 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.545 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 17 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.545 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 18 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.546 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 19 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.546 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 20 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.546 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 21 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.547 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 22 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.547 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 23 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.547 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 24 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.548 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 25 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.548 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 26 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.548 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 27 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.548 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 28 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.548 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 29 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.549 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 30 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.549 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 31 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.549 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 32 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.549 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 33 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.550 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 34 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.550 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 35 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.550 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 36 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.550 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 37 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.550 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 38 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 39 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 40 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 41 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 42 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 43 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.551 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 44 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.552 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 45 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.552 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 46 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.552 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 47 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.552 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 48 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.552 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 49 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.553 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 50 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.553 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 51 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.553 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 52 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.553 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 53 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.553 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 54 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.554 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 55 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.554 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 56 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.554 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 57 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.554 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 58 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.554 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 59 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.555 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 60 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.555 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 61 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.555 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 62 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.555 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 63 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.555 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 64 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.556 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 65 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.556 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 66 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.556 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 67 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.556 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 68 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.556 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 69 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.557 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 70 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.557 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 71 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.557 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 72 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.557 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 73 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.557 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 74 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.558 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 75 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.558 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 76 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.558 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 77 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.558 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 78 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.558 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 79 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.559 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 80 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.559 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 81 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.559 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 82 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.559 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 83 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.559 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 84 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.560 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 85 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.560 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 86 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.560 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 87 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.560 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 88 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.560 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 89 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.561 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 90 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.561 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 91 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.561 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 92 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.561 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 93 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.561 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 94 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.562 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 95 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.562 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 96 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.562 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 97 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.562 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 98 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.562 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 99 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.563 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 100 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.563 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 101 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.563 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 102 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.563 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 103 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.563 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 104 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.564 | INFO | bot.handlers.giveaway_manager:run_apscheduler:51 - В apscheduler добавлен розыгрыш под 105 id на 2024-09-20 22:22:22
+20-Sep-2024 19:37:39.564 | INFO | bot.handlers.giveaway_manager:run_apscheduler:65 - apscheduler запущен
+20-Sep-2024 19:40:37.806 | INFO | __main__:run_pyrogram_and_apscheduler:104 - Начинаю чек 4BjkMx:YG0zA7dYDU@46.8.192.210:3000
+20-Sep-2024 19:40:38.471 | INFO | __main__:run_pyrogram_and_apscheduler:112 - Прокси прошли чек
+20-Sep-2024 19:40:43.575 | INFO | __main__:run_pyrogram_and_apscheduler:144 - [7 993 383 1421_Ofachnoisalat] запущен
+20-Sep-2024 19:40:43.598 | INFO | __main__:run_pyrogram_and_apscheduler:104 - Начинаю чек 4BjkMx:YG0zA7dYDU@109.248.14.198:3000
+20-Sep-2024 19:40:44.234 | INFO | __main__:run_pyrogram_and_apscheduler:112 - Прокси прошли чек
+20-Sep-2024 19:41:34.061 | INFO | __main__:run_pyrogram_and_apscheduler:104 - Начинаю чек 4BjkMx:YG0zA7dYDU@46.8.192.210:3000
+20-Sep-2024 19:41:34.608 | INFO | __main__:run_pyrogram_and_apscheduler:112 - Прокси прошли чек
